@@ -158,7 +158,7 @@ To set up the PG-Life Web Application on your local system, follow these steps:
 
     1.Clone the repository:
 
-        git clone https://github.com/mohitrajput2002/PG-Life.git 
+        git clone https://github.com/ayeshazareen1507/PG-Life.git 
 
     2.Database Connectivity:
 Create a database with phpMyAdmin Tool using the same name as the provided SQL file name. Import the given SQL file into the created database.
@@ -180,14 +180,6 @@ Technologies Used:
         5.PHP
         6.MySQL-Database(phpMyAdmin_server)
     Thank you!
-![ Spixmacaw Stats](https://github-readme-stats.vercel.app/api?username=Spixmacaw&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![Spixmacaw Stats](https://github-readme-stats.vercel.app/api?username=Spixmacaw&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Spixmacaw Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spixmacaw&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-<hr>
-
-![Alt](https://repobeats.axiom.co/api/embed/f713688be87aa5899cb61012215ab0e43e64b7af.svg "Repobeats analytics image")
 
 
 /
