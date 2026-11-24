@@ -146,14 +146,7 @@
 </html>
 
 
-verfy:
 
-click this--> https://github.com/Spixmacaw/-Web_development-PGlife_website1.git
-
->where: 
-This website referral url.
-   
-click this :http://debanjansarkar.epizy.com/PGLIFE/index.php
    
 .Entire web-app is fully responsive and is operational from any device.
 
